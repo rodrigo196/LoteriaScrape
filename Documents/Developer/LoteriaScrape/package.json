@@ -1,0 +1,19 @@
+{
+  "name": "loteria-scrape",
+  "version": "0.0.1",
+  "description": "Realiza o scrape do ultimo jogo da megasena na página da Caixa Economica Federal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rodrigo196/LoteriaScrape.git"
+  },
+  "author": "Rodrigo Bulgarelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo196/LoteriaScrape/issues"
+  },
+  "homepage": "https://github.com/rodrigo196/LoteriaScrape#readme"
+}
